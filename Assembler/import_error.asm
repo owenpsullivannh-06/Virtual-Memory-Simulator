@@ -1,0 +1,6 @@
+
+abc:
+word 
+
+import abc
+
