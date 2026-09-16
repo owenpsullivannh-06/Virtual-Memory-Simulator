@@ -1,6 +1,0 @@
-
-abc:
-word 
-
-import abc
-
